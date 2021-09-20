@@ -12,6 +12,8 @@ This work entails the usage of a novel hybrid deep transfer learning method for 
 4. The studies on the impact of significant TCPs and their different combinations on thermal comfort modeling indicate that TL CNN-LSTM achieves best prediction performance with nine TCPs (PMV, personal, and outdoor environmental factors).
 5. The experiments on analyzing the impact of (i) CNN and LSTM layers on TL CNN-LSTM, (ii) CNN-LSTM layers for parameter transfer, and (iii) size of the target dataset on TL CNN-LSTM and CNN-LSTM demonstrates the effectiveness and applicability of the proposed transductive transfer learning based thermal comfort model for buildings with limited modeling data.
 
+
+## Link to paper: https://www.sciencedirect.com/science/article/abs/pii/S0360132321005345
 ## People
 
 This work has been developed by [Anirudh Sriram](https://github.com/anirudhs123), [Dr. Nivethitha Somu ](https://scholar.google.com/citations?user=q1M0BgIAAAAJ&hl=en), [Prof. Anupama Kowli](https://www.ee.iitb.ac.in/web/people/faculty/home/anu) and [Prof.Krithi Ramamritham ](https://www.iitb.ac.in/en/employee/prof-krithi-ramamritham) from Indian Institute of Technology, Madras and Indian Institute of Technology, Bombay. Ask us your questions at [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
