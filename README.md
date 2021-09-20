@@ -9,7 +9,7 @@ The models and datasets have been developed to cater to two closely related task
 IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
 
 <p align="center">
-   <img src="images/Model_arch.jpg" width=400 height=400>
+   <img src="images/Model_arch.jpg" width=500 height=500>
 </p>
 
 ## Key Contributions
