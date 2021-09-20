@@ -21,4 +21,4 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
 
 ## People
 
-This work has been developed by [Emil Biju](https://github.com/emilbiju), [Anirudh Sriram](https://github.com/anirudhs123), [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) and [Prof. Pratyush Kumar](https://www.cse.iitm.ac.in/~pratyush/) from the Indian Institute of Technology, Madras. Ask us your questions at [emilbiju7@gmail.com](mailto:emilbiju7@gmail.com) or [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
+This work has been developed by [Anirudh Sriram](https://github.com/anirudhs123), [Prof. Anupama Kowli](https://www.ee.iitb.ac.in/web/people/faculty/home/anu) and [Prof.Krithi Ramamritham ](https://www.iitb.ac.in/en/employee/prof-krithi-ramamritham) from the Indian Institute of Technology, Madras and Indian Institute of Technology,Bombay. Ask us your questions at [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
