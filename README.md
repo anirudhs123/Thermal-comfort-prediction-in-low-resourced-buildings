@@ -1,13 +1,6 @@
 # A-hybrid-deep-transfer-learning-strategy-for-thermal-comfort-prediction-in-buildings
 This work entails the usage of a novel hybrid deep transfer learning method for thermal comfort prediction in buildings with no or very little labelled data. We provide a novel Deep Learning architecture that jointly uses CNNs and LSTMs and the concept of Knowledge transfer from source to target domain to accurately predict the thermal comfort in low resourced buildings. We perform extensive ablation study and comparative anlaysis with other state of the art models and out perform them in various quality metrics. For detailed information regarding this work, please visit [our publication](https://www.sciencedirect.com/science/article/abs/pii/S0360132321005345). 
 
-The models and datasets have been developed to cater to two closely related tasks:
-
-- **Indic-to-Indic Decoding:** To support users who prefer to type in the native Indic script (Devanagari, Bengali, etc.)
-- **English-to-Indic Decoding:** To support users who prefer to type using an English script keyboard but want the output in the native script.
-
-IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
-
 <p align="center">
    <img src="images/Model_arch.jpg" width=500 height=500>
 </p>
