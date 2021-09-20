@@ -13,11 +13,11 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
 </p>
 
 ## Key Contributions
-
-1. A Gesture Path Decoding model that uses a multi-headed Transformer along with LSTM layers for coordinate sequence encoding and a character-level LSTM model for character sequence decoding.
-2. A Contrastive Transliteration correction model that uses position-aware character embeddings to measure word proximities and correct spellings of transliterated words.
-3. Two datasets of simulated word traces for supporting work on gesture typing for Indic language keyboards including low resource languages like Telugu and Kannada.
-4. The accuracies of the proposed models vary from 70 to 89% for English-to-Indic decoding and 86-95% for Indic-to-Indic decoding across the 7 languages used for the study.
+1. A transfer learning based CNN-LSTM (TL CNN-LSTM) model is presented for accurate thermal comfort prediction in buildings with limited modeling data across different climate zones. In the design of TL CNN-LSTM, two significant challenges such as the identification of significant TCPs and imbalanced nature of the data were addressed using Chi-squared statistics and SMOTE respectively.
+2. CNN-LSTM takes the input of personal, indoor and outdoor features from the source datasets in specific order and captures the spatiotemporal relations for accurate thermal comfort modeling.
+3. Extensive experiments on ASHRAE RP-884, Scales project, and Medium US office show that TL CNN-LSTM outperforms the stateof-the-art thermal comfort algorithms in terms of various quality metrics.
+4. The studies on the impact of significant TCPs and their different combinations on thermal comfort modeling indicate that TL CNNLSTM achieves best prediction performance with nine TCPs (PMV,personal, and outdoor environmental factors).
+5. The experiments on analyzing the impact of (i) CNN and LSTM layers on TL CNN-LSTM, (ii) CNN-LSTM layers for parameter transfer, and (iii) size of the target dataset on TL CNN-LSTM and CNN-LSTM demonstrates the effectiveness and applicability of the proposed transductive transfer learning based thermal comfort model for buildings with limited modeling data.
 
 ## People
 
